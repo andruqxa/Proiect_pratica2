@@ -1,0 +1,6 @@
+touch Downloads/Movies/{The\ Matrix.mp4,Inception.mkv,Pulp\ Fiction.avi}
+touch Downloads/Series/{Breaking\ Bad\ S01E01.mp4,Game\ of\ Thrones\ S08E06.mkv,The\ Office\ S02E05.avi}
+touch Downloads/Music/{The\ Beatles\ -\ Hey\ Jude.mp3,Queen\ -\ Bohemian\ Rhapsody.flac,Pink\ Floyd\ -\ Another\ Brick\ in\ the\ Wall.wav}
+touch Downloads/{Resume.pdf,Report.docx,Manual.doc,Notes.odt,installer.exe,setup.sh,configure.bat}
+touch Downloads/{Avengers\ Endgame.mp4,Eminem\ -\ Lose\ Yourself.mp3}
+touch Downloads/{random.txt,image.jpg,archive.zip}
